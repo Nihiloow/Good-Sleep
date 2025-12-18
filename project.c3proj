@@ -59,7 +59,7 @@
 	"uniqueId": "8q16q9ipitm",
 	"objectTypes": {
 		"items": [
-			"Sprite",
+			"Joueur",
 			"ArrièreplanRépété",
 			"ArrièreplanRépété2",
 			"ArrièreplanRépété3",
@@ -73,9 +73,12 @@
 			"Sprite2",
 			"ArrièreplanRépété10",
 			"ArrièreplanRépété11",
-			"ArrièreplanRépété12",
-			"ArrièreplanRépété13",
-			"ArrièreplanRépété14"
+			"MainBloc1",
+			"MainBloc2",
+			"MainBloc3",
+			"DeathBloc1",
+			"DeathBloc2",
+			"DeathBloc3"
 		],
 		"subfolders": []
 	},

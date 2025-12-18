@@ -1,7 +1,7 @@
 {
-	"name": "ArrièreplanRépété12",
+	"name": "MainBloc3",
 	"plugin-id": "TiledBg",
-	"sid": 785879770615775,
+	"sid": 540810735332182,
 	"isGlobal": false,
 	"editorNewInstanceIsReplica": true,
 	"instanceVariables": [],
@@ -9,7 +9,7 @@
 		{
 			"behaviorId": "solid",
 			"name": "Solide",
-			"sid": 841650828957125
+			"sid": 126317879498436
 		}
 	],
 	"effectTypes": [],
@@ -22,7 +22,7 @@
 		"exportFormat": "lossless",
 		"exportQuality": 0.8,
 		"fileType": "image/png",
-		"imageSpriteId": 2236424,
+		"imageSpriteId": 3522667,
 		"useCollisionPoly": true,
 		"tag": ""
 	}

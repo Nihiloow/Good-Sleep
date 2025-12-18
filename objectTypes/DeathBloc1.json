@@ -1,7 +1,7 @@
 {
-	"name": "ArrièreplanRépété13",
+	"name": "DeathBloc1",
 	"plugin-id": "TiledBg",
-	"sid": 941351417237166,
+	"sid": 517185339401911,
 	"isGlobal": false,
 	"editorNewInstanceIsReplica": true,
 	"instanceVariables": [],
@@ -9,7 +9,7 @@
 		{
 			"behaviorId": "solid",
 			"name": "Solide",
-			"sid": 465875741893658
+			"sid": 536688237117291
 		}
 	],
 	"effectTypes": [],
@@ -22,7 +22,7 @@
 		"exportFormat": "lossless",
 		"exportQuality": 0.8,
 		"fileType": "image/png",
-		"imageSpriteId": 7675270,
+		"imageSpriteId": 4368091,
 		"useCollisionPoly": true,
 		"tag": ""
 	}
