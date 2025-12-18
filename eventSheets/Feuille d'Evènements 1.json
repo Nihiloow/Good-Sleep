@@ -5,6 +5,67 @@
 			"eventType": "block",
 			"conditions": [
 				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 989354051846537
+				}
+			],
+			"actions": [
+				{
+					"id": "set-opacity",
+					"objectClass": "DeathBloc1",
+					"sid": 212775839616505,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "DeathBloc2",
+					"sid": 133792911383893,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "DeathBloc3",
+					"sid": 629230347641816,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "InvisibleBloc1",
+					"sid": 152656676910250,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "InvisibleBloc2",
+					"sid": 685996388471762,
+					"parameters": {
+						"opacity": "0"
+					}
+				},
+				{
+					"id": "set-opacity",
+					"objectClass": "InvisibleBloc3",
+					"sid": 696915816173484,
+					"parameters": {
+						"opacity": "0"
+					}
+				}
+			],
+			"sid": 674703126537335
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
 					"id": "on-any-animation-finished",
 					"objectClass": "Joueur",
 					"sid": 156580776039785
@@ -101,7 +162,7 @@
 				{
 					"id": "on-collision-with-another-object",
 					"objectClass": "Joueur",
-					"sid": 841975723366169,
+					"sid": 898306052132245,
 					"parameters": {
 						"object": "DeathBloc1"
 					}
@@ -111,7 +172,7 @@
 				{
 					"id": "shake",
 					"objectClass": "Joueur",
-					"sid": 364357901627789,
+					"sid": 986041429374215,
 					"behaviorType": "DéfilerVers",
 					"parameters": {
 						"magnitude": "20",
@@ -122,20 +183,20 @@
 				{
 					"id": "fall-through",
 					"objectClass": "Joueur",
-					"sid": 853769987621342,
+					"sid": 903505835342566,
 					"behaviorType": "Plateforme"
 				},
 				{
 					"id": "set-position",
 					"objectClass": "Joueur",
-					"sid": 617340119138531,
+					"sid": 504377242157610,
 					"parameters": {
 						"x": "32",
 						"y": "352"
 					}
 				}
 			],
-			"sid": 630410609852643
+			"sid": 603578684742645
 		},
 		{
 			"eventType": "block",

@@ -78,7 +78,12 @@
 			"MainBloc3",
 			"DeathBloc1",
 			"DeathBloc2",
-			"DeathBloc3"
+			"DeathBloc3",
+			"MainBloc4",
+			"MainBloc5",
+			"InvisibleBloc1",
+			"InvisibleBloc2",
+			"InvisibleBloc3"
 		],
 		"subfolders": []
 	},
